@@ -1,4 +1,4 @@
-# backstage-plugin-scaffolder-git-actions package
+# @internal/plugin-scaffolder-backend-module-backstage-plugin-scaffolder-git package
 
 This is a `git` actions plugin for the `scaffolder-backend` in Backstage.
 
@@ -15,7 +15,7 @@ This contains a collection of actions for using with git:
 In the root directory of your Backstage project:
 
 ```
-yarn add --cwd packages/backend @mdude2314/backstage-plugin-scaffolder-git-actions
+yarn add --cwd packages/backend @internal/plugin-scaffolder-backend-module-backstage-plugin-scaffolder-git
 ```
 
 Add the actions you'd like to the scaffolder:

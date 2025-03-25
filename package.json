@@ -1,12 +1,12 @@
 {
-  "name": "@mdude2314/backstage-plugin-scaffolder-git-actions",
+  "name": "@internal/plugin-scaffolder-backend-module-backstage-plugin-scaffolder-git",
   "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "types": "src/index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arhill05/backstage-plugin-scaffolder-git-actions.git"
+    "url": "https://github.com/kevinnguyenhoang91/backstage-plugin-scaffolder-git-actions.git"
   },
   "publishConfig": {
     "access": "public",
